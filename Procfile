@@ -1,1 +1,5 @@
-worker: node index.js
+{
+	"ip":"CGSMP.aternos.me",
+	"port": "50645",
+	"name": "BEPOP"
+}
